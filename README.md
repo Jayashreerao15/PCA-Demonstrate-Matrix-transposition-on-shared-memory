@@ -24,7 +24,7 @@ Step 6:
 Terminate the program.
 
 ## Output:
-![image](https://github.com/Jayashreerao15/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/74660507/4aaa5b09-702a-4131-a458-b42e868efd17)
+![image](https://github.com/Jayashreerao15/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/74660507/f4ea29a4-7327-4f3b-ac16-fd8f5d9fff5a)
 
 ## Result:
 Thus,the program to compare the performance of Rectangular Shared Memory Kernels with a grid (1,1) and a block (16,16) for Matrix Transposition has been successfully executed.
